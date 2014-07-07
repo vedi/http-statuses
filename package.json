@@ -1,0 +1,33 @@
+{
+  "name": "http-statuses",
+  "version": "0.1.0",
+  "description": "Http error wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vedi/http-statuses.git"
+  },
+  "keywords": [
+    "node.js",
+    "http",
+    "status",
+    "response",
+    "error",
+    "code"
+  ],
+  "dependencies": {
+  },
+  "author": {
+    "name": "Fedor Shubin"
+  },
+  "license": "MIT",
+  "readme": "http-statuses\n==========\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/vedi/http-statuses/issues"
+  },
+  "homepage": "https://github.com/vedi/http-statuses"
+}
