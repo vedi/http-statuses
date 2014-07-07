@@ -1,6 +1,6 @@
 {
   "name": "http-statuses",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Http error wrapper",
   "main": "index.js",
   "scripts": {
@@ -24,7 +24,6 @@
     "name": "Fedor Shubin"
   },
   "license": "MIT",
-  "readme": "http-statuses\n==========\n",
   "readmeFilename": "README.md",
   "bugs": {
     "url": "https://github.com/vedi/http-statuses/issues"
