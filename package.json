@@ -1,6 +1,6 @@
 {
   "name": "http-statuses",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Http error wrapper",
   "main": "index.js",
   "scripts": {
@@ -18,8 +18,7 @@
     "error",
     "code"
   ],
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "eslint": "3.12.2",
     "eslint-config-airbnb-base": "11.0.0",
