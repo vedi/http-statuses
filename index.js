@@ -1,1 +1,4 @@
-module.exports = require('./http-statuses.js');
+
+'use strict';
+
+module.exports = require('./lib/http-statuses');
